@@ -1,4 +1,4 @@
 # xxHub
 is a scripthub.
 
-Script: 
+Script: https://raw.githubusercontent.com/o0ctt/xxHub/main/main.lua
